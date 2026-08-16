@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-bc8uzf.absolutebeachview.co.nz/sitemap.xml
